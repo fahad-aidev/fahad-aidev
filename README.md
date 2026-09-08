@@ -83,15 +83,6 @@ Featured speaker at Google DevFest (2025), Google Developer Group Fest (2025), G
   <a href="mailto:a.h.fahad18@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<br/>
-
-<h2 align="center">GitHub Statistics 📈</h2>
-
-<div align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" />
-  <img src="./profile/top-langs.svg" alt="Top languages" />
-</div>
-
 <!--
 fahad-aidev/fahad-aidev is a special repository: this README appears on your GitHub profile.
 -->
