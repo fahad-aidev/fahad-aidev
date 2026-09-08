@@ -88,8 +88,8 @@ Featured speaker at Google DevFest (2025), Google Developer Group Fest (2025), G
 <h2 align="center">GitHub Statistics 📈</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahad-aidev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_title=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-aidev&layout=compact&theme=react&hide=css,html" alt="Top languages" />
+  <img src="./profile/stats.svg" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
 </div>
 
 <!--
