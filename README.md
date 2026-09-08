@@ -1,4 +1,6 @@
-<h1 align="left">Hi, I'm Fahad.</h1>
+<p align="center">
+  <img src="cover.png" alt="Abdul Hafeez Fahad — Senior AI Engineer" width="100%" />
+</p>
 
 <p align="left">
   <a href="https://git.io/typing-svg">
