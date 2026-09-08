@@ -1,11 +1,12 @@
-<p align="center">
-  <img src="cover.png" alt="Abdul Hafeez Fahad — Senior AI Engineer" width="100%" />
-</p>
-
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=Senior+AI+Engineer;Generative+AI+%26+LLMs;Agentic+Systems+on+Azure" alt="Typing SVG" />
   </a>
+</p>
+
+
+<p align="center">
+  <img src="cover.png" alt="Abdul Hafeez Fahad — Senior AI Engineer" width="100%" />
 </p>
 
 <h2>📖 About Me</h2>
